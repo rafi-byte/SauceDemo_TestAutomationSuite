@@ -1,4 +1,4 @@
-# Sauce Demo Test Automation Suite
+# Sauce Demo Test Automation Suite Linear Approach
 
 ## Overview
 This project contains automated test scripts for https://www.saucedemo.com/, implementing various test scenarios including login, shopping cart, checkout process, and more. The automation framework uses Selenium WebDriver with Java and TestNG.
